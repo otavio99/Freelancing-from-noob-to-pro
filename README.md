@@ -25,7 +25,7 @@ If there is one essential thing you need to know about programming languages, is
 
 And if you for some reason becomes a fan of a specific programming language, you'd be wasting your time. As it was stated, every programming language serves a purpose and you should pick a programming language based on it solely. Do not try to use the programming language outside its purpose and do not become very attachecd to a programming language beacuse you are just making your life harder.
 
-And despite how much different a programming language may look and feel from another, all of them share a common base. So its not crazy to say that once you learn a programming language, learning another one is quite easy. Of course it depends on the use and purpose you have, but it will be fairly more easy.
+And despite how much different a programming language may look and feel from another, all of them share a common base. So its not crazy to say that once you learn a programming language, learning another one is quite easy. Of course it depends on the use and purpose you have, but it will be fairly more easy. 
 
 
 ## Python, a good entry point for freelancer developers
