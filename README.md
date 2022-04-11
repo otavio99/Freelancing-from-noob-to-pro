@@ -10,7 +10,9 @@ For this use case, we are going to have 3 parties: customer, freelancer voluntee
 **Freelancer volunteer:** A person who is willing to offer a small-time service inside the digital market in exchange of tokens and free marketing of their services
 **Charity Volunteer/Manager:** A person who is in charge of helping charities and is looking for more funding to boost the charity cause
 
+```gherkin
 Scenario: Customer donates to Charity
 Scenario: Customer goes to exchange token
 Scenario: Freelancer receives a request from customer
 Scenario: Charity Volunteer notifies donation
+```
