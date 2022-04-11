@@ -1,4 +1,4 @@
-# Dummy Utility Token
+# Dummy Utility Token (DUTO)
 
 This project is the initial effort of creating a system that will manage utility tokens that should work more or less like vouchers.
 
