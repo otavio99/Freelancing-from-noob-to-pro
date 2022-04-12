@@ -16,8 +16,32 @@ The description of each role is:
 The current scenarios of use are:
 
 ```gherkin
-Scenario: Customer donates to Charity
-Scenario: Customer goes to exchange token
+Scenario: customers donates to Charity
+  Given customers wants to donate $$ reais to a convenied charity entity
+  When customers donates, they sends their id with donation to charity manager
+  Then customers register to their side of the system the receip for the donation (pix/ted/doc)
+
+Scenario: Charity Manager notifies donation
+  Given donation received from customers plus their ids
+  When the charity manager identifies donation in the bank account
+  Then charity manager goes to their side of the system a notifies donation by inputing amount, id, and proof of donation
+
+Scenario: customers get confirmation for their donation
+  Given customers have donate a given amount to charity entity
+  When the donation is confirmed by charity manager
+  Then customers are notified 
+    And will be able to see the token at their balance
+
+Scenario: Customers go to marketplace
+  Given customers with tokens
+  When they want to exchange their tokens for services
+  Then they go to the marketplace to look for services they might be interested in
+
+Scenario: Customers wants to exchange token for a service
+  Given customers have found the desired service
+  When verify if the token they have available has enough for service
+  Then they can request service by notifying freelancer at the market place
+
 Scenario: Freelancer receives a request from customer
 Scenario: Charity Volunteer notifies donation
 ```
