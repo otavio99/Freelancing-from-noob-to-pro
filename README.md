@@ -27,7 +27,7 @@ The current scenarios of use are:
 
 ```gherkin
 Scenario: customers donates to Charity
-  Given customers wants to donate $$ reais to a convenied charity entity
+  Given customers wants to donated $$ (money) to a convenied charity entity
   When customers donates, they sends their id with donation to charity manager
   Then customers register to their side of the system the receip for the donation (pix/ted/doc)
 
