@@ -8,6 +8,8 @@ So this project will start with a MVP that employ some of the basic principles o
 
 The goal of this project is to enable a token/reward system for people who donate to charity entites, by rewarding them with tokens that can be exchanged in a digital service market that will be created specially to boost the use of the tokens.
 
+This project is based on the Token Economy Theory, where parents create a system of givin tokens or rewards to their childs, when the child performs a desired behaviour (a good behaviour). To know more about this theory check [this link](https://fcpg.ca/what-is-a-token-system-and-how-can-it-be-helpful-for-my-child-with-autism/#:~:text=A%20token%20system%20or%20token,Ayllon%20%26%20Azrin%2C%201968).
+
 ### Simple Use Case
 
 For this use case, we are going to have 3 parties: customer, freelancer volunteer, charity volunteer/manager. 
