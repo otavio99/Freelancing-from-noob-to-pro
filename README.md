@@ -1,6 +1,10 @@
 # Dummy Utility Token (DUTO) Manager(????)
 
-This project is the initial effort of creating a system that will manage utility tokens that should work more or less like vouchers.
+This project is the initial effort of creating a system that will manage utility tokens that should work more or less like vouchers, but it is very dummy for now.
+
+The initial idea was to actually use utility tokens, but due the complexity of creating it and making use of it, this idea will be postponed for now.
+
+So this project will start with a MVP that employ some of the basic principles of blockchains (the most usefull and easy ones) in order to create a token system that will actually be more like vouchers or gift cards.
 
 The goal of this project is to enable a token/reward system for people who donate to charity entites, by rewarding them with tokens that can be exchanged in a digital service market that will be created specially to boost the use of the tokens.
 
