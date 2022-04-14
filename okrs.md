@@ -14,4 +14,5 @@
   - Listening to pitchs 
   - Taking part in validations of systems and flows
 - Create a landing page to showcase the project
-- Present the project on a social media of some sort
+- Present the project on a social media
+  - places where there might be people who could gain interest
