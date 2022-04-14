@@ -50,6 +50,10 @@ Scenario: Customers wants to exchange token for a service
   When verify if the token they have available has enough for service
   Then they can request service by notifying freelancer at the market place
 
-Scenario: Freelancer receives a request from customer
+Scenario: Freelancer agrees to provide service
+  Given freelancer received a notification about a user request
+  When freelancer is sure that can take on the request ????
+  Then freelancer ??????
+
 Scenario: Charity Volunteer notifies donation
 ```
