@@ -9,7 +9,7 @@
 - Adapt the the crud to have different views for each type of user: admin, charity manager, customer, freelancer
 - Verify and do validate the exchange flow
 
-### Gather collaborators to help with eventual validations
+### Gather collaborators
 - Talk with frieds, familiy, known people who might be interested in:
   - Listening to pitchs 
   - Taking part in validations of systems and flows
