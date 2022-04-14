@@ -2,7 +2,7 @@
 
 ### Goal
 
-This project is the initial effort of creating a system that will manage utility tokens that should work more or less like vouchers, but it is very dummy for now.
+This project is the initial effort of creating a system that will manage utility tokens that should work more or less like vouchers, but it will be something quite dummy to begin with.
 
 The goal is to enable a token/reward system for people who donate to charity entites, by rewarding them with tokens that can be exchanged in a digital service market that will be created specially to boost the use of the tokens.
 
