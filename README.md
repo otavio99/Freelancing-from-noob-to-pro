@@ -14,7 +14,7 @@ The Token Economy Theory is the base for this project. This theory help parents 
 
 For the case of this project, it is about creating a Token Economy in a comunity-wide level, to reinforce the behaviour of donating to charity institutions. People usually find it hard to donate, mainly when there is no substantial return from doing it. 
 
-So when someone donates to a charity institution, they will receive a token which they can use to acquire a service from a freelancer that is relevant to them. The freelancer will be interested in engaging in this exchange to receive tokens (which they can make use of too) and to promote their work and thus market themselves (these freelancer will be generally people who just started and/or are on the lookout for small work in order to create portifolio and promote themselves).
+So inside this token comunity economy, when someone donates to a charity institution, they will receive a token which they can use to acquire a service from a freelancer that is relevant to them. The freelancer will be interested in engaging in this exchange to receive tokens (which they can make use of too) and to promote their work and thus market themselves (these freelancer will be generally people who just started and/or are on the lookout for small work in order to create portifolio and promote themselves).
 
 ### Development
 As of now, the main work being done is the definition of [OKRs](https://github.com/otavio99/onss-duto/blob/main/okrs.md) and [Generic Scenarios of use](https://github.com/otavio99/onss-duto/blob/main/okrs.md) in [Gherkin](https://cucumber.io/docs/guides/overview/#what-is-cucumber). As for the development of the system, it is being done for now in the [OFF](https://github.com/otavio99/off) project.
