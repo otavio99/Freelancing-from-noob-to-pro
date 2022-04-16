@@ -12,10 +12,11 @@ The description of each role is:
 The current scenarios of use are:
 
 ```gherkin
-Scenario: customers donates to Charity
-  Given customers wants to donated $$ (money) to a convenied charity entity
-  When customers donates, they sends their id with donation to charity manager
-  Then customers register to their side of the system the receip for the donation (pix/ted/doc)
+Rule: There is a defined amount $$ per token
+  Scenario: customers donates to Charity
+    Given customers wants to donated $$ (money) to a convenied charity entity
+    When customers donates, they sends their id with donation to charity manager
+    Then customers register to their side of the system the receip for the donation (pix/ted/doc)
 
 Scenario: Charity Manager notifies donation
   Given donation received from customers plus their ids
