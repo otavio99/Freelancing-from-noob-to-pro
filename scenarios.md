@@ -38,11 +38,11 @@ Scenario: Customers wants to exchange token for a service
   When verify if the token they have available has enough for service
   Then they can request service by notifying freelancer at the market place
 
-Rule: Freelancer can only take X number of request per week
-Scenario: Freelancer take request to provide service
-  Given freelancer received a notification about a user request
-  When freelancer confirm availability to take request
-  Then freelancer poke customer to start the service providing process
+Rule: Freelancer can only take X number of requests per week
+  Scenario: Freelancer take request to provide service
+    Given freelancer received a notification about a user request
+    When freelancer confirm availability to take request
+    Then freelancer poke customer to start the service providing process
 
 Scenario: Charity Volunteer notifies donation
 ```
