@@ -22,3 +22,5 @@
   - Recomendations
   - Showcasing
   - Same logic facebook makes use to boost ads
+- Apply same strategy as zappos, but for pets
+  - Collab with pet store, and so on.
