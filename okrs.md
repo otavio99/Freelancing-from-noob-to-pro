@@ -5,13 +5,13 @@
 ### Develope Duto management MVP V1
 - Simple CRUD that will be the base for the MVP
 - Authentication with social login (FB/Gmail)
-- Utility token management by applying blockchain basic principles
+- Utility token management by applying block-chain basic principles
 - Adapt the the crud to have different views for each type of user: admin, charity manager, customer, freelancer
 - Verify and do validate the token exchange flow
 
 ### Gather collaborators
-- Talk with frieds, familiy, known people who might be interested in:
-  - Listening to pitchs 
+- Talk with friends, family, known people who might be interested in:
+  - Listening to a pitch
   - Taking part in validations of systems and flows
 - Create a landing page to showcase the project
 - Present the project on a social media

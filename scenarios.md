@@ -1,8 +1,8 @@
 # Scenarios
 
-This section will describe scenarios not only for a possible system but for the whole interaction around the token economy, its entire cyle.
+This section will describe scenarios not only for a possible system but for the whole interaction around the token economy, its entire cycle.
 
-For these scenarios, we are going to have 3 parties: customer, freelancer volunteer, charity volunteer/manager. 
+For these scenarios, we are going to have 3 parties: customer, freelancer volunteer, charity volunteer/manager.
 The description of each role is:
 
 - **Customer:** A person who wants to donate and utilize rewarded tokens to exchange for utilities or services in the digital market.
@@ -26,7 +26,7 @@ Scenario: Charity Manager notifies donation
 Scenario: customers get confirmation for their donation
   Given customers have donate a given amount to charity entity
   When the donation is confirmed by charity manager
-  Then customers are notified 
+  Then customers are notified
     And will be able to see the token at their balance
 
 Scenario: Customers go to marketplace
