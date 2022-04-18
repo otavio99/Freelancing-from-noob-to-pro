@@ -1,6 +1,6 @@
 # Dummy Utility Token (DUTO) Manager(????)
 
-The duto project aims to develope a reward system with the goal of encouraging people to help charity foundations.
+The duto project aims to develope a reward system with the purpose of encouraging people to help charity foundations by means of donation and volunteering.
 
 ### Context
 
