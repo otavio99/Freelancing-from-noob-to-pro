@@ -1,12 +1,12 @@
 # Dummy Utility Token (DUTO) Manager(????)
 
-The duto project aims to develop a reward system with the purpose of encouraging people to help charity foundations by means of donation and volunteering.
+O projeto duto visa desenvolver um sistema de recompensas com o objetivo de incentivar as pessoas a ajudarem fundações beneficentes por meio de doação e voluntariado.
 
 ### Context
 
-This project is the initial effort of creating a system that will manage utility tokens that should work more or less like gift cards (or something of the kind), but it will be something quite dummy to begin with.
+Este projeto é o esforço inicial de criar um sistema que irá gerenciar tokens utilitários que devem funcionar mais ou menos como cartões-presente (ou algo do tipo), mas será algo bastante simples (dummy) para começar.
 
-The goal is to enable a token/reward system for people who donate to charity entities, by rewarding them with tokens that can be exchanged in a digital service market that will be created and developed specially to boost the use of the tokens.
+O objetivo é viabilizar um sistema de token/recompensa para pessoas que doam para entidades beneficentes, recompensando-as com tokens que podem ser trocados em um mercado de serviços digital, que será criado e desenvolvido especialmente para impulsionar o uso dos tokens.
 
 So this project will start with a MVP that employ some of the basic principles of block-chains (the most useful and easy ones) in order to create a token system that will actually be more like gift cards. The initial idea was to actually use utility tokens, but due the complexity of creating it and making use of it, this idea will be postponed for now.
 
