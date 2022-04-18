@@ -17,7 +17,7 @@
 - Present the project on a social media
   - places where there might be people who could gain interest
 
-### Monitization 
+### Monitization by Marketing
 - Do Ads for other local business in exchange for a small fee.
   - Recomendations
   - Showcasing
