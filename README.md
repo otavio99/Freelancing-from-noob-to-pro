@@ -1,5 +1,7 @@
 # Dummy Utility Token (DUTO) Manager(????)
 
+The duto project aims to develope a rewarding system with the goal of encouraging people to help charity foundations.
+
 ### Goal
 
 This project is the initial effort of creating a system that will manage utility tokens that should work more or less like gift cards (or something of the kind), but it will be something quite dummy to begin with.
