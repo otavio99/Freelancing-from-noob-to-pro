@@ -16,3 +16,9 @@
 - Create a landing page to showcase the project
 - Present the project on a social media
   - places where there might be people who could gain interest
+
+### Monitization 
+- Do Ads for other local business in exchange for a small fee.
+  - Recomendations
+  - Showcasing
+  - Same logic facebook makes use to boost ads
