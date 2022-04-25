@@ -1,4 +1,4 @@
-Versão em Português https://github.com/otavio99/onss-sr/tree/main/pt-br
+Versão em Português https://github.com/otavio99/onss-sr/tree/main/pt-br (está um pouco atrás da versão em inglês).
 
 # Social Reward (SR)
 
