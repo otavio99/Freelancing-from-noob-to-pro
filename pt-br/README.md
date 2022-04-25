@@ -2,7 +2,7 @@
 
 O projeto duto visa desenvolver um sistema de recompensas, com o objetivo de incentivar as pessoas a ajudarem fundações beneficentes por meio de doações e voluntariado.
 
-### Context
+### Contexto
 
 Este projeto é o esforço inicial de criar um sistema que irá gerenciar tokens de utilidade, que devem funcionar mais ou menos como cartões-presente (ou algo do tipo) de forma bem simples (dummy).
 
@@ -16,5 +16,5 @@ Para o caso deste projeto, trata-se de criar uma Economia Token em nível comuni
 
 Então, dentro dessa economia comunitária baseada em tokens, quando alguém doa para uma instituição de caridade, essa pessoa recebe um token que pode ser usado para adquirir um serviço relevante de um freelancer integrante do mercado digital de serviços. O freelancer estará interessado em engajar nessa troca para receber tokens (para também adquirir serviços) e divulgar seu trabalho (esses freelancers geralmente serão pessoas que acabaram de começar na área e/ou estão à procura de pequenos trabalham para criar portfólio e se promover).
 
-### Development
+### Desenvolvimento
 Por hora, o principal trabalho que está sendo feito é a definição de [OKRs](https://github.com/otavio99/onss-duto/blob/main/okrs.md) e [Senarios de uso](https://github.com/otavio99/onss-duto/blob/main/okrs.md) em [Gherkin](https://cucumber.io/docs/guides/overview/#what-is-cucumber). Quanto ao desenvolvimento do sistema, está sendo criada uma base de código no projeto [OFF](https://github.com/otavio99/off).
