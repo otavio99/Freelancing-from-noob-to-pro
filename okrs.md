@@ -2,7 +2,7 @@
 
 ## From 12/04/2022 To 12/06/2022
 
-### Develope Duto management MVP V1
+### MVP V2
 - Simple CRUD that will be the base for the MVP
 - Authentication with social login (FB/Gmail)
 - Utility token management by applying block-chain basic principles
