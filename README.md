@@ -1,3 +1,5 @@
+Versão em Português https://github.com/otavio99/onss-sr/tree/main/pt-br
+
 # Social Reward (SR)
 
 The SR project aims to develop a reward system with the purpose of encouraging people to help charity foundations by means of donation and volunteering.
