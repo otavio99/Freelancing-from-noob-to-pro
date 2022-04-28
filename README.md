@@ -1,8 +1,8 @@
 Versão em Português https://github.com/otavio99/onss-sr/tree/main/pt-br (está um pouco atrás da versão em inglês).
 
-# Social Reward (SR)
+# Social Reward (SocialR)
 
-The SR project aims to develop a reward system with the purpose of encouraging people to help charity foundations by means of donation and volunteering.
+The SocialR project aims to develop a reward system with the purpose of encouraging people to help charity foundations by means of donation and volunteering.
 
 ### Context
 
