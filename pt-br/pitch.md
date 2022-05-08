@@ -2,7 +2,7 @@
 
 ### Core concept
 
-O projeto duto visa desenvolver um sistema de recompensas, com o objetivo de incentivar as pessoas a ajudarem fundações beneficentes por meio de doações e voluntariado.
+O projeto rsocial visa desenvolver um sistema de recompensas, com o objetivo de incentivar as pessoas a ajudarem fundações beneficentes por meio de doações e voluntariado.
 
 ### Context
 
